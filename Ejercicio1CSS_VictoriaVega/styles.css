@@ -96,6 +96,18 @@ header .orange {
 .card {
     background-color: #FAF9EF;
     border-radius: 1rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+}
+
+.card-costumer{
+    background-color: #FAF9EF;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+    width: 30rem;
 }
 
 .card-horizontal {
@@ -155,6 +167,18 @@ section {
     align-items: center;
 }
 
+.costumers {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 5rem;
+    
+}
+
 h5 {
     color: #FDA310;
+}
+
+.titulo{
+    text-align: center;
 }
